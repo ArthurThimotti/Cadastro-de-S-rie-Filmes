@@ -1,0 +1,6 @@
+/Users/arthurthimotti/Projects/DIO.Series/DIO.Series/bin/Debug/DIO.Series.exe
+/Users/arthurthimotti/Projects/DIO.Series/DIO.Series/bin/Debug/DIO.Series.pdb
+/Users/arthurthimotti/Projects/DIO.Series/DIO.Series/obj/Debug/DIO.Series.csproj.CoreCompileInputs.cache
+/Users/arthurthimotti/Projects/DIO.Series/DIO.Series/obj/Debug/DIO.Series.exe
+/Users/arthurthimotti/Projects/DIO.Series/DIO.Series/obj/Debug/DIO.Series.pdb
+/Users/arthurthimotti/Projects/DIO.Series/DIO.Series/obj/Debug/DIO.Series.csprojAssemblyReference.cache

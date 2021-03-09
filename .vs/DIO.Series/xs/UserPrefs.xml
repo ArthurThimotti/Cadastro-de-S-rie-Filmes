@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{51425946-02BB-4424-9D74-0669770D5E20}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DIO.Series/Program.cs">
+    <Files>
+      <File FileName="DIO.Series/Program.cs" Line="15" Column="34" IsPinned="True" />
+      <File FileName="DIO.Series/classes/FilmeRepositorio.cs" Line="26" Column="42" IsPinned="True" />
+      <File FileName="DIO.Series/classes/Filme.cs" />
+      <File FileName="DIO.Series/classes/SerieRepositorio.cs" />
+      <File FileName="DIO.Series/classes/Serie.cs" />
+      <File FileName="DIO.Series/classes/EntidadeBase.cs" />
+      <File FileName="DIO.Series/Interfaces/IRepositorio.cs" />
+      <File FileName="DIO.Series/Enum/Genero.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DIO.Series" expanded="True">
+            <Node name="DIO.Series" expanded="True">
+              <Node name="classes" expanded="True" />
+              <Node name="Enum" expanded="True" />
+              <Node name="Interfaces" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.DIO.Series PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
